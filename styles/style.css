@@ -431,3 +431,17 @@ a:hover {
 .length__title::after {
     font-size: 1.2rem !important;
 }
+
+
+.footer {
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  background-color: #1e1e2f;
+  padding: 10px 0;
+}
+
