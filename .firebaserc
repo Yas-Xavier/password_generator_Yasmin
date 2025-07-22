@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "testingpasswdgeneratoryasmin",
+    "StagingPasswdGenerator": "stagingpasswdgeneratoryasmin",
+    "ProductionPasswdGenerator": "productionpasswdgeneratoryas"
+  },
+  "targets": {},
+  "etags": {}
+}
